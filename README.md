@@ -1,1 +1,3 @@
 # horovodi
+
+Language: Haskell
